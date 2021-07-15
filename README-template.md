@@ -15,8 +15,8 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://starts-preview-card-component.netlify.app/)
-- Live Site URL: [Add live site URL here](https://raybags.com)
+- Solution URL: [checkout_solution](https://starts-preview-card-component.netlify.app/)
+- Live Site URL: [visit_my_site](https://raybags.com)
 
 ## My process
 
