@@ -180,9 +180,9 @@ body {
 }
 
 .main-container .left-container .numbers-container .single-data span {
-  font-size: 1.2rem;
+  font-size: 1rem;
   font-family: var(--font-family-main-2);
-  text-transform: capitalize;
+  text-transform: uppercase;
   padding-top: 0.5rem;
   opacity: 0.6;
   -webkit-backdrop-filter: blur(100%);
@@ -388,9 +388,9 @@ body {
 
 @media screen and (max-width: 769px) {
   .main-container .left-container .numbers-container .single-data span {
-    font-size: 0.7rem;
+    font-size: 0.6rem;
     font-family: var(--font-family-main-2);
-    text-transform: capitalize;
+    text-transform: uppercase;
     padding-top: 0.2rem;
     opacity: 0.6;
     -webkit-backdrop-filter: blur(100%);
