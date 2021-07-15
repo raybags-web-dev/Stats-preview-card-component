@@ -4,6 +4,7 @@
     --font-family-main: "Inter", sans-serif;
     --font-family-main-2: "Lexend Deca", sans-serif;
     --pupple-cl: hsl(277, 64%, 61%);
+    --purple_2: hsl(277, 95%, 31%);
     --typewriter-speed: 0.6s;
 }
 *,
@@ -162,7 +163,7 @@ body {
             height: 100%;
             right: 0;
             opacity: 0.4;
-            background: var(--pupple-cl);
+            background: var(--purple_2);
         }
     }
     // small screen
